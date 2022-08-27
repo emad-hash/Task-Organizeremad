@@ -194,7 +194,9 @@ body.dark footer {
 .logoright {
 	margin-right: 50px;
 }
-
+footer img{
+	margin-top: 20px;
+}
 .textleft {
 	margin-left: 20px;
 }
@@ -270,14 +272,14 @@ body.dark footer {
 .heroHeading {
 	margin: 1rem;
 	margin-bottom: 1.5rem;
-	animation: fadeIn 2.5s;
+	/* animation: fadeIn 2.5s; */
 	font-weight: 700;
 }
 .heroDescription {
 	max-width: 50rem;
 	margin: 1rem;
 	line-height: 2.8rem;
-	animation: fadeIn 2.5s;
+	/* animation: fadeIn 2.5s; */
 }
 
 /* hero animation End here /
@@ -624,5 +626,6 @@ hr {
 	.headingAndDescription {
 		margin-left: 20px;
 	}
+	
 }
 /* end media emad */

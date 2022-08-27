@@ -196,6 +196,9 @@ footer {
 	/* position: absolute;
 	bottom: 0; */
 }
+footer img{
+	margin-top: 20px;
+}
 .logoright {
 	margin-right: 50px;
 }
@@ -370,7 +373,7 @@ body.dark .showAll {
 	font-size: large;
 	font-weight: bolder;
 	padding: 1rem;
-	background-color: grey;
+	background-color: white;
 }
 
 /* duaa */
