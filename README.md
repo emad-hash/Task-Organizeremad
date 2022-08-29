@@ -21,7 +21,7 @@ Emad Hashash, Dua'a Nawwas
 
 ### Links to our project
 
-[Live URL](https://task-organizer-group-2.github.io/Task-organizer/)
+[Live URL](https://emad-hash.github.io/Task-Organizeremad/)
 
 [Trello Board](https://trello.com/b/S7YLUtou/task-management-project#)
 
